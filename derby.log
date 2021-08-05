@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jan 25 17:20:10 WAT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.3 - (1557168): instance a816c00e-0177-3a58-6806-000007700000 
+on database directory C:\db\timetable with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+Loaded from file:/C:/Java%20Works/former/TimeTable/
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.1+9-18
+user.dir=C:\Java Works\former\TimeTable
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
